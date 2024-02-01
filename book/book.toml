@@ -3,7 +3,7 @@ authors = ["typescripto"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Docs"
+title = "Book"
 description = "The quick brown fox jumped over the lazy dog."
 
 [output.html]
@@ -11,8 +11,8 @@ default-theme = "ayu"
 preferred-dark-theme = "ayu"
 git-repository-icon = "fa-github"
 git-repository-url = "https://github.com/typescripto/typescripto.github.io"
-edit-url-template = "https://github.com/typescripto/typescripto.github.io/edit/main/docs/{path}"
-# cname = "docs.example.com"
+edit-url-template = "https://github.com/typescripto/typescripto.github.io/edit/main/book/{path}"
+# cname = "book.example.com"
 
 [build]
 build-dir = "dist"

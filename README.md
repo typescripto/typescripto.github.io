@@ -6,6 +6,9 @@ A template repository for publicly available documentations.
 
 - Create a new repository from typescripto.github.io.
   - https://github.com/typescripto/typescripto.github.io/generate
+- Configure your GitHub Actions permissions.
+  - https://github.com/typescripto/typescripto.github.io/settings/actions
+  - Under "Workflow permissions", select "Read and write permissions", then save.
 - Configure your GitHub Pages source.
   - https://github.com/typescripto/typescripto.github.io/settings/pages
   - Use the branch `gh-pages`
