@@ -1,0 +1,18 @@
+[book]
+authors = ["typescripto"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Docs"
+description = "The quick brown fox jumped over the lazy dog."
+
+[output.html]
+default-theme = "ayu"
+preferred-dark-theme = "ayu"
+git-repository-icon = "fa-github"
+git-repository-url = "https://github.com/typescripto/mdbook-template"
+edit-url-template = "https://github.com/typescripto/mdbook-template/edit/main/docs/{path}"
+# cname = "docs.example.com"
+
+[build]
+build-dir = "dist"
