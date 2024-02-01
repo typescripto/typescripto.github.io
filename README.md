@@ -1,13 +1,13 @@
-# mdbook-template
+# typescripto.github.io
 
 A template repository for publicly available documentations.
 
 #### Setup
 
-- Create a new repository from mdbook-template.
-  - https://github.com/typescripto/mdbook-template/generate
+- Create a new repository from typescripto.github.io.
+  - https://github.com/typescripto/typescripto.github.io/generate
 - Configure your GitHub Pages source.
-  - https://github.com/typescripto/mdbook-template/settings/pages
+  - https://github.com/typescripto/typescripto.github.io/settings/pages
   - Use the branch `gh-pages`
   - Use the folder `/ (root)`
 - Configure your `book.toml` file.
